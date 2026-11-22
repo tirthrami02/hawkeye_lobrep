@@ -55,6 +55,8 @@ includes the controls (scratch baseline, random-init embeddings, raw-feature clu
 shifted test instrument, multiple seeds), and under them the gain largely disappears. Plausible reasons are in
 *Limitations*.
 
+New to the project? Read [`docs/EXPLAINER.md`](docs/EXPLAINER.md) first: glossary, code walkthrough and interview Q&A.
+
 ## What's in the box
 
 ```
